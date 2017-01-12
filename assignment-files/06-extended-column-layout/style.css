@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #efeaea;
+  font-family: "Avenir", "seriff"
+}
+
+.column-container {
+  font-size: 0;
+}
+
+.column-one{
+  background-color: #000;
+  border: black 1px solid;
+  display: inline-block;
+  width: 30%;
+}
+
+.column-two{
+  background-color: #000;
+  border: black 1px solid;
+  display: inline-block;
+  width: 30%;
+}

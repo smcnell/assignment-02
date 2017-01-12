@@ -1,0 +1,25 @@
+
+#app-container {
+  font-family: "Avenir";
+  color: "black";
+  display: inline-block;
+}
+
+.list {
+  list-style: none;
+  text-weight: 100px;
+}
+
+.list a {
+  text-decoration: none;
+  color: black;
+  padding: 10px 10px 10px 10px;
+}
+
+span {
+  color: #66CC99;
+}
+.boxed {
+  border: gray 1px solid;
+  padding: 10px 10px 10px 10px;
+}

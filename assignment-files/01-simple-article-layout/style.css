@@ -1,0 +1,24 @@
+#app-container {
+font-family: "Georgia";
+line-height: 1.25;
+background-color: #fff8d8;
+width: 650px;
+margin-left: auto;
+margin-right: auto;
+padding: 10px 25px 10px 25px;
+}
+
+span {
+  background-color: black;
+  color: white;
+  font-family: "Geneva";
+}
+
+.heading h1 {
+  font-weight: 100;
+}
+
+.heading h2 {
+  font-size: 35px;
+  font-weight: 100;
+}

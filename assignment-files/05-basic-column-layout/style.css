@@ -1,0 +1,50 @@
+
+
+#app-container {
+  font-family: "Helvetica Neue";
+
+}
+.heading
+{
+  background-color: #004;
+  color: #fff;
+  display: inline-block;
+  font-size: 15px;
+
+}
+
+.more {
+  color: #DE5233
+}
+
+div.first-column {
+display: inline-block;
+width: 150px;
+vertical-align: top;
+font-size: 13px;
+}
+
+div.second-column {
+display: inline-block;
+width: 150px;
+vertical-align: top;
+font-size: 13px;
+
+}
+
+div.third-column {
+display: inline-block;
+width: 150px;
+vertical-align: top;
+font-size: 13px;
+}
+
+div.fourth-column {
+display: inline-block;
+width: 150px;
+vertical-align: top;
+font-size: 13px;
+}
+span {
+  color: gray;
+}
