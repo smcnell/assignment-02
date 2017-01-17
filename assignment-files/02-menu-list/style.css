@@ -4,10 +4,15 @@
   color: "black";
   display: inline-block;
 }
+.header {
+  margin-left: 40px;
+  font-weight: 100;
+  font-size: 14px;
+}
 
 .list {
   list-style: none;
-  text-weight: 100px;
+  font-weight: 100px;
 }
 
 .list a {

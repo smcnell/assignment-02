@@ -1,11 +1,12 @@
 #app-container {
 font-family: "Georgia";
 line-height: 1.25;
+font-size: 20px;
 background-color: #fff8d8;
-width: 650px;
+width: 600px;
 margin-left: auto;
 margin-right: auto;
-padding: 10px 25px 10px 25px;
+padding: 50px 50px 200px 50px;
 }
 
 span {

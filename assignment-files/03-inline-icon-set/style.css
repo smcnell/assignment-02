@@ -1,4 +1,9 @@
+body {
+  text-decoration: none;
+  width: 100%;
+  font-size: 0;
+}
+
 .buttons h1 {
 font-size: 10px;
-
 }
